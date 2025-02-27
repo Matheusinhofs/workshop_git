@@ -1,0 +1,25 @@
+- Apresentar repositório remoto
+    - github, gitlab,...
+    - Evita que fique o git apenas na máquina local
+    - Local para hospedar o código do git, sendo possível compartilhar o código
+    - Sempre um repositório por projeto(em geral) 
+    - Controle de versão distribuído
+    - Features:
+        - Pull Requests
+        - Issues
+        - Actions
+    - Tem a parte da chave do SSH no curso, se precisar veja depois novamente
+    - Commit semântico são boas práticas de commit
+
+
+- Como fazer um projeto que não usa GIT/Github passar a usar?
+    - Cria um repositório, define nome(mesmo que o da pasta), definir se é público ou privado, ai só pegar no bash na pasta.
+
+- Git Clone vai trazer o código da pessoa pra sua máquina. Se der um git push no que foi alterado não funciona.  
+    - GIT CLONE <link da URL do repositório>
+- Fork vai fazer semelhante ao clone mas no github de quem fez o fork. Da pra fazer o commit para o SEU repositório. 
+- Git push 
+    - Leva a main do git pro github
+- Pull Requests (PR)
+    - Ele faz um request para que seja aprovada a modificação
+    - 
